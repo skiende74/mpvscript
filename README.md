@@ -1,7 +1,7 @@
 # mpvscript
 my mpvscript setting files.
 
-push the files and folders to mpv setting folders.
+push the *.conf files and scripts folder to mpv setting folder.
 
 mpv setting folders.
 
