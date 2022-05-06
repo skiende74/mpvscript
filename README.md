@@ -5,7 +5,7 @@ push the *.conf files and scripts folder to mpv setting folder.
 
 
 
-#mpv setting folders.
+# mpv setting folders.
 
 Windows
 %appdata%\mpv
