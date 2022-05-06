@@ -7,7 +7,7 @@ mpv setting folders.
 
 
 Windows
-%appdata%/mpv
+%appdata%\mpv
 
 linux
 /home/{username}/.config/mpv
